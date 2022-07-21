@@ -7,7 +7,7 @@
 - 🌱 I Specialized in Java   
   
 
-- ❓ Ask me about your life problem with div 
+- ❓ Tell me about your problem with div 
   
 
 -  ☕ Fun fact: I don't drink coffee while code  
