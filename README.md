@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Kevin, a full-stack freelance developer that specialized in java, working remotely since 2020 </div>  
+### <div align="center">Hi, I'm Kevin. a full-stack freelance developer that specialized in java, working remotely since 2020 </div>  
  
 
 
